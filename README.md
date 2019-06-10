@@ -2,7 +2,7 @@
 ************************************************************************************************
 ## Description : 
  Python Scripts that download Multiple images and videos in folder containg their searched name !
- First it scrapes the link then acoording to their type of the file it uses different Python Library to Download
+ First it scrapes the link then according to what user wants, it uses different Python Library to Download the desired content 
 
 **Language used** - Python
 
