@@ -5,6 +5,9 @@
  First it scrapes the link then according to what user wants, it uses different Python Library to Download the desired content 
 
 **Language used** - Python
+## Dependencies
+
+```pip install -r requirements.txt```
 
 **Tech Stack used** 
 1: Requests
