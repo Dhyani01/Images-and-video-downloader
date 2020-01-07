@@ -1,0 +1,6 @@
+Requests
+bs4
+pytube
+OS
+pillow
+IO
